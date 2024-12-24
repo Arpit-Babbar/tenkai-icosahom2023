@@ -2,7 +2,7 @@ Running this code requires julia. I recommend using `juliaup` to install it, see
 
 ```julia
 julia> import Pkg
-julia> Pkg.add("https://github.com/Arpit-Babbar/Tenkai.jl")
+julia> Pkg.add(url="https://github.com/Arpit-Babbar/Tenkai.jl")
 ```
 Now, you are ready to run the any code, e.g., by entering
 ```julia
